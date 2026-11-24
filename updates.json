@@ -2,7 +2,7 @@
   "addons": {
     "break-replacer@local": {
       "updates": [
-        { "version": "0.40.3", "update_link": "https://diogenes500.github.io/breakReplacer/break-replacer-0.40.3.xpi" }
+        { "version": "0.41.2", "update_link": "https://diogenes500.github.io/breakReplacer/break-replacer-0.41.2.xpi" }
       ]
     }
   }
